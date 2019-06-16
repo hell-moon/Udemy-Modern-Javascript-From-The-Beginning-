@@ -14,3 +14,10 @@ Features include: Error message when incorrect input is submitted, a loading ani
 This project demonstrates DOM selection and manipulation with Javascript, event handling, and javascript functions.  Bootstrap 4 responsible for styling. 
 
 To run: make sure 'img' folder, 'app.js' and 'index.html' are in same directory.  Then, just open 'index.html' in web browser. 
+
+
+The **Number Guesser Game** Project implements a simple guessing game.  The guessing interval and number of guesses can be customized at the top of 'app.js' file.  Guessing the correct value within the alloted guesses will result in a congratulatory message and an option to play again.  An incorrect guess will show how many guesses are left.  Once all guesses are used and correct value is not guessed, a game over message will display, displaying the winning number and an option to play again. This project demonstrates DOM selection and manipulation with Javascript, event listeners and event delegation, and javascript functions.  Skeleton CSS responsible for styling.
+
+Upon playing again or refreshing the page, a new random number will be selected as the winning number. 
+
+To run: make sure both 'app.js' and 'index.html' are in the same directory.  Then, just open 'index.html' in a web browser. 
